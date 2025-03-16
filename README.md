@@ -1,18 +1,6 @@
-✅آپلود  پروکسی تلگرام بدون وقفه در 24 ساعت شبانه روز
-
-✅لینک دسترسی به پروکسی های تلگرامی
-(لینک زیر صرفا جهت سهولت دسترسی شما به پروکسی های تلگرام تهیه شده است و پیام رسان تلگرام قابلیت افزودن پروکسی از طریق لینک را #ندارد )
-
-
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/TELEGRAM_PROXY_SUB/refs/heads/main/telegram_proxy.txt  
-
-
-✅50 درصد از پروکسی های کانال تلگرامیV2RAY_CONFIGS_POOL در لینک دسترسی به پروکسی های تلگرامی آپلود میشود جهت دسترسی به پروکسی های بیشتر به کانال تلگرامیV2RAY_CONFIGS_POOL رجوع بفرمایید
-
-
-✅لینک کانال تلگرام 
-
-https://t.me/v2ray_configs_pool
-
-
-
+| Description                                      | Link                                                                                                                         |
+|--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| V2Ray Subscribe Link                             | [V2ray_Sub_Link](https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs.txt)           |
+| Subscribe Link for Channel's Dedicated Configs  | [V2ray_Sub_Link](https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/V2RAYCONFIGS.txt)            |
+| Link to Access Telegram Proxies                  | [Proxy_Sub_Link](https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/TELEGRAM_PROXY_SUB/refs/heads/main/telegram_proxy.txt) |
+| V2RAY_CONFIGS_POOL Telegram Channel Link         | [Channel Link](https://t.me/v2ray_configs_pool)                                                                             |
