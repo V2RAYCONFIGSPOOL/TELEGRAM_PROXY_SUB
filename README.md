@@ -6,7 +6,9 @@
 
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/TELEGRAM_PROXY_SUB/refs/heads/main/telegram_proxy.txt  
 
-تنها 20 درصد از پروکسی های کانال تلگرامیV2RAY_CONFIGS_POOL در لینک دسترسی به پروکسی های تلگرامی آپلود میشود 
+
+✅50 درصد از پروکسی های کانال تلگرامیV2RAY_CONFIGS_POOL در لینک دسترسی به پروکسی های تلگرامی آپلود میشود جهت دسترسی به پروکسی های بیشتر به کانال تلگرامیV2RAY_CONFIGS_POOL رجوع کنید 
+
 
 ✅لینک کانال تلگرام 
 
