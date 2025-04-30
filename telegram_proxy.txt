@@ -1,10 +1,4 @@
-https://t.me/proxy?server=185.222.28.11&port=8443&secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
-https://t.me/proxy?server=45.67.139.63&port=8882&secret=eed700433aba3557d5e83d82beb4ab735873332e616d617a6f6e6177732e636f6dعااالی
-https://t.me/proxy?server=165.232.46.202&port=443&secret=7gGwwkFCtqvrkA7i2A0Si6RnaXRodWIuY29t
-https://t.me/proxy?server=83.147.255.206&port=443&secret=%31%33%32%30%50%75%4E%79%48%77%5F%4C%51%4B%54%5F%59%37%58%4E%4A%77%3D%3D
-https://t.me/proxy?server=103.71.23.132&port=8443&secret=%31%33%32%30%50%75%4E%79%48%77%5F%4C%51%4B%54%5F%59%37%58%4E%4A%77%3D%3D
-https://t.me/proxy?server=103.71.23.189&port=8443&secret=%31%33%32%30%50%75%4E%79%48%77%5F%4C%51%4B%54%5F%59%37%58%4E%4A%77%3D%3D
-https://t.me/proxy?server=77.110.104.230&port=8443&secret=%31%33%32%30%50%75%4E%79%48%77%5F%4C%51%4B%54%5F%59%37%58%4E%4A%77%3D%3D
-https://t.me/proxy?server=43.100.10.43&port=443&secret=ee58f0c6ae52160aac55d6a252c15f5748617a7572652e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=43.100.10.47&port=443&secret=ee50c0c6b992dffea9a78b8d6b00813108617a7572652e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=64.7.199.195&port=443&secret=ee6e4d02112e92308c52d2c325dcbef4c47373683a2f2f7373682e64656269616e2e6f72672fe193aae1939ae19283e191902f
+https://t.me/proxy?server=165.232.46.202&port=443&secret=dd01b0c24142b6abeb900ee2d80d128ba4
+https://t.me/proxy?server=165.232.46.202&port=443&secret=ee01b0c24142b6abeb900ee2d80d128ba46769746875622e636f6d
+https://t.me/proxy?server=64.7.199.195&port=443&secret=7m5NAhEukjCMUtLDJdy-9MRzc2g6Ly9zc2guZGViaWFuLm9yZy_hk6rhk5rhkoPhkZAv
+https://t.me/proxy?server=shaparak.ir_refah-bank.ir_abnn.ir_bank-maskan.ir_zula.ir_varzesh3.com_telewebion.com_anten.ir.iceburger.ir.&port=5672&secret=3d3d3d3d3d3d3d3d3d3d3d0=
