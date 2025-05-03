@@ -1,1 +1,9 @@
-https://t.me/proxy?server=noron.cancell9.ir&port=901&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t
+https://t.me/proxy?server=43.100.10.44&port=443&secret=eee146ebe8e1e3c9e53b192c582c976c35617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=43.100.10.46&port=443&secret=ee0603885c349856a571388bfd0a8c7c37617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=8.222.228.244&port=443&secret=ee9c3c92802d187f35ed05ca489d6b7498617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=dfe861e1c4219393.bytezs.ir&port=443&secret=7gcgcgcgcgcgcgcgcgcgcgd0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=06a1e6c44a428b08.bytezs.ir&port=443&secret=7gcgcgcgcgcgcgcgcgcgcgd0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=4a4a517cfa3d57ab.bytezs.ir&port=443&secret=7gcgcgcgcgcgcgcgcgcgcgd0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=75a9d691fd38e717.bytezs.ir&port=443&secret=7gcgcgcgcgcgcgcgcgcgcgd0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=cb23e32f7e89db0c.bytezs.ir&port=443&secret=7gcgcgcgcgcgcgcgcgcgcgd0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=99924dedbb9989fb.bytezs.ir&port=443&secret=7gcgcgcgcgcgcgcgcgcgcgd0cmFuc2xhdGUuZ29v
