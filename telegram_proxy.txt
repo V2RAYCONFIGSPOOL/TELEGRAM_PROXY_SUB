@@ -1,14 +1,3 @@
-https://t.me/proxy?server=my.verjoon.uk&port=710&secret=ee02323389007001000020009000080000726179616e6573686768652e636f6d
-https://t.me/proxy?server=my.tryangel.ir&port=310&secret=3RYDAQIAAQAB_AMDhuJMOt0
-https://t.me/proxy?server=my.tryangel.ir&port=710&secret=ee02323389007001000020009000080000726179616e6573686768652e636f6d
-https://t.me/proxy?server=8.219.163.220&port=443&secret=ee0403a2df7818cebf3c0416c455a1d0da617a7572652e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=8.222.140.129&port=443&secret=eec0b364f92727933d3b05a652d0b6a23f617a7572652e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=8.222.177.55&port=443&secret=eee1251d6a022b5c8b5d3b0cf8b5a3c8a2617a7572652e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=8.222.254.182&port=443&secret=ee7c3ec1c5e4bbed7ff484a7e944463230617a7572652e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=176.65.136.73&port=70&secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
-https://t.me/proxy?server=my.takhti.uk&port=710&secret=ee02323389007001000020009000080000726179616e6573686768652e636f6d
-https://t.me/proxy?server=my.tagari.uk&port=710&secret=ee02323389007001000020009000080000726179616e6573686768652e636f6d
-https://t.me/proxy?server=my.vinaak.uk&port=710&secret=ee02323389007001000020009000080000726179616e6573686768652e636f6d
-https://t.me/proxy?server=5.255.122.86&port=443&secret=15115115115115115115115115115115
-https://t.me/proxy?server=OTP.shop-parvaneh.ir.&port=443&secret=EERighJJvXrFGRMCIMJdCQ%3D%3D
-https://t.me/proxy?server=dns.bazi-parvaneh.ir.&port=3443&secret=DDBighLLvXrFGRMCBVJdFQ%3D%3D
+https://t.me/proxy?server=7.7.7.7.rickuniversity.ir&port=8080&secret=3VfG5WWflzAMCNWquHdvJdA
+https://t.me/proxy?server=amgblack.ftferari.ir&port=52&secret=eeRighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=laferari.ftferari.ir&port=87&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t
