@@ -1,2 +1,6 @@
-https://t.me/proxy?server=47.250.113.237&port=443&secret=eeadec157833ce0dbb29533ebfc4e18cfe617a7572652e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=47.250.116.198&port=443&secret=ee4bd70e5f422f78bc1b7b0f0ca8064e1e617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=ir.rezerviha.ir.&port=551&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=43.100.78.125&port=443&secret=ee2ef1b87b8250bbe31b1115e318a9df44617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=47.250.10.118&port=443&secret=ee9f6658358f82d4169403305e952bf19e617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=47.250.123.64&port=443&secret=ee6a3ae8750abc69754433dea8517138ab617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=47.250.156.250&port=443&secret=ee9da425a512c4e99c4fd379390ccdcbbd617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=65.109.205.191&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
