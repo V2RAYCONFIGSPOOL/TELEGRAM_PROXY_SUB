@@ -1,1 +1,2 @@
-
+https://t.me/proxy?server=185.19.33.242&port=443&secret=eedfc60abf44776b425191d7d8344522ef7777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=3f1e06706d1e0b8b.bytezs.ir&port=443&secret=7gcgcgcgcgcgcgcgcgcgcgd0cmFuc2xhdGUuZ29v
