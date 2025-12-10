@@ -1,0 +1,37 @@
+concurrent: 30
+check-interval: 15
+timeout: 5000
+min-speed: 1024
+download-timeout: 10
+speed-test-url: https://cachefly.cachefly.net/50mb.test
+save-method: local
+github-gist-id: ''
+github-token: ''
+github-api-mirror: ''
+worker-url: https://example.worker.dev
+worker-token: 1234567890
+webdav-username: admin
+webdav-password: admin
+webdav-url: https://example.com/dav/
+enable-web-ui: true
+listen-port: mractive.liara.run:8299
+old-api-key: admin
+api-key: ed0fe96fb3a9482df51dbed14402494b
+sub-store-port: :8299
+githubproxy: 自动选择
+github-proxy: https://github.boki.moe/
+sub-urls:
+  - "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt"
+  - "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt"
+  - "https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_Sub.txt"
+  - "https://farsonline24.ir/"
+  - "https://manager.farsonline24.ir/"  
+mihomo-overwrite-url: http://mractive.liara.run:8299/bdg.yaml
+rename-node: true
+media-check: false
+keep-success-proxies: false
+print-progress: true
+sub-urls-retry: 3
+subscheck-version: 未知版本
+gui-auto: false
+success-limit: 0
