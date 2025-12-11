@@ -12,6 +12,7 @@
 | Proxy Subscribe Link10                            | [Proxy_Sub_Link10](https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/TELEGRAM_PROXY_SUB/refs/heads/main/telegram_proxy_no10.txt) |
 | V2RAY_CONFIGS_POOL Telegram Channel Link         | [Channel Link](https://t.me/v2ray_configs_pool)                                                                             |
 
+![line](line.gif)
 
 ✅لینک های  سابسکرایب پروکسی تلگرامی
 
