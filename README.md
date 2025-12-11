@@ -38,6 +38,8 @@ https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/TELEGRAM_PROXY_SUB/refs/heads
 
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/TELEGRAM_PROXY_SUB/refs/heads/main/telegram_proxy_no10.txt
 
+![line](line.gif)
+
 ✅لینک کانال تلگرام
 
 https://t.me/v2ray_configs_pool
