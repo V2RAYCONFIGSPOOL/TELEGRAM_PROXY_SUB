@@ -1,15 +1,15 @@
-https://t.me/proxy?server=85.133.194.11&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=188.212.98.8&port=8443&secret=79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8
-https://t.me/proxy?server=zilweb.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0
-https://t.me/proxy?server=65.109.251.157&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=connect.iprofree.beauty&port=8443&secret=dd79e7010200010007f0030386e24c3add
-https://t.me/proxy?server=135.181.86.160&port=9862&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=188.212.98.30&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=188.212.98.21&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=188.212.98.2&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=188.212.98.7&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=188.212.98.6&port=8443&secret=79e344818749bd7ac519130220c25d09****
-https://t.me/proxy?server=188.212.98.8&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ****
-https://t.me/proxy?server=85.133.194.115&port=8443&secret=79e344818749bd7ac519130220c25d09****
-https://t.me/proxy?server=85.133.194.25&port=8443&secret=79e344818749bd7ac519130220c25d09****
+https://t.me/proxy?server=85.133.194.14&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ** # Ping: 4240ms
+https://t.me/proxy?server=85.133.194.41&port=8443&secret=79e344818749bd7ac519130220c25d09 # Ping: 3044ms
+https://t.me/proxy?server=85.133.194.23&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 4432ms
+https://t.me/proxy?server=85.133.194.113&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 3085ms
+https://t.me/proxy?server=188.212.98.29&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 4574ms
+https://t.me/proxy?server=85.133.194.16&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 3340ms
+https://t.me/proxy?server=85.133.194.116&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 3514ms
+https://t.me/proxy?server=188.212.98.25&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 4579ms
+https://t.me/proxy?server=85.133.194.111&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 3558ms
+https://t.me/proxy?server=https.uptv443.shop&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0= # Ping: 4940ms
+https://t.me/proxy?server=85.133.194.111&port=8443&secret=79e344818749bd7ac519130220c25d09 # Ping: 3573ms
+https://t.me/proxy?server=188.212.98.8&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 5523ms
+https://t.me/proxy?server=188.212.98.5&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 3578ms
+https://t.me/proxy?server=188.212.98.30&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 5656ms
+https://t.me/proxy?server=85.133.194.117&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 3642ms
