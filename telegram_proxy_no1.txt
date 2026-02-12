@@ -1,15 +1,15 @@
-https://t.me/proxy?server=185.215.247.22&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
-https://t.me/proxy?server=15.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5
-https://t.me/proxy?server=a71b9068888669f8.bytezs.ir&port=9443&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6D656469612E737465616D706F77657265642E636F6D
-https://t.me/proxy?server=b559b027aa2594c1.bytezs.ir&port=443&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6D656469612E737465616D706F77657265642E636F6D
-https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=77.93.136.252&port=88888&secret=dd10400103324995b07c030386e886e7f1
-https://t.me/proxy?server=74.1.1.53&port=65535&secret=dd79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=74.1.1.48&port=8770&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=74.1.1.49&port=88888&secret=dd79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=65.21.28.60&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=85.133.194.122&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=5.75.240.97&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=116.202.100.110&port=54321&secret=7lLIZ9x1mD-vS7N_kdUWTwk
-https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=1.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5 # Ping: 3738ms
+https://t.me/proxy?server=85.133.194.122&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 3764ms
+https://t.me/proxy?server=188.212.98.6&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 3766ms
+https://t.me/proxy?server=fo-re-fr-ee-do-m.realmroyale.ir&port=443&secret=6ecd67df4de1c2e019a635fa04e74633 # Ping: 3803ms
+https://t.me/proxy?server=188.212.98.22&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 3969ms
+https://t.me/proxy?server=saborbash-vasle.minetor.co.uk&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0 # Ping: 4161ms
+https://t.me/proxy?server=45.76.184.13&port=9443&secret=2adab36179e7a39026adf74034615248 # Ping: 4720ms
+https://t.me/proxy?server=185.115.161.248&port=9443&secret=dd104462821249bd7ac519130220c25d09 # Ping: 4862ms
+https://t.me/proxy?server=47.83.230.67&port=26435&secret=fc38908031618d51ef3a84422c93be2e # Ping: 5197ms
+https://t.me/proxy?server=85.133.194.31&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 5276ms
+https://t.me/proxy?server=188.212.98.29&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 5292ms
+https://t.me/proxy?server=85.133.194.127&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 5316ms
+https://t.me/proxy?server=85.133.194.124&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 5808ms
+https://t.me/proxy?server=188.212.98.21&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 7630ms
+https://t.me/proxy?server=188.212.98.12&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ # Ping: 7926ms
