@@ -1,1 +1,15 @@
-
+https://t.me/proxy?server=100.anarchy.click&port=443&secret=eeafb5dd6476392ab0dd99fa8fee68f2f179612e7275&&channel=@baicai_dev
+https://t.me/proxy?server=188.121.100.103&port=80&secret=dd76a9ddf7ac858be3863182c9b5b4fa97
+https://t.me/proxy?server=188.137.179.86&port=443&secret=dd851d3d0a3512868d32d544ae993fe467&&channel=@baicai_dev
+https://t.me/proxy?server=85.193.83.136&port=443&secret=ee6fc160dcdaf0329e7a34b24bf7c0224e7777772e6d6963726f736f66742e636f6d&&channel=@baicai_dev
+https://t.me/proxy?server=87.228.118.146&port=443&secret=7ttVazDorvw0Q5Vvmpcb3Ox0ZWxlZ3JhbS5jcm9jbmV0LnJ1&&channel=@baicai_dev
+https://t.me/proxy?server=87.228.118.149&port=443&secret=7ttVazDorvw0Q5Vvmpcb3Ox0ZWxlZ3JhbS5jcm9jbmV0LnJ1&&channel=@baicai_dev
+https://t.me/proxy?server=proxy.zentvpn.ru&port=2096&secret=7sJdjmaKG20V38ln3q8jmzB3d3cuYXBwbGUuY29t&&channel=@baicai_dev
+https://t.me/proxy?server=proxy2.burn.ac&port=443&secret=dd0aba9fb3a04d68d8358271c4bb3e56ae&&channel=@baicai_dev
+https://t.me/proxy?server=tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275&&channel=@baicai_dev
+https://t.me/proxy?server=208.115.225.166&port=85&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t&@proxyiran
+https://t.me/proxy?server=iraangavi.co.uk&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t&@proxyiran
+https://t.me/proxy?server=157.180.122.194&port=551&secret=eeNEgYdJvXrFGRMCIMJdCQ&@proxyiran
+https://t.me/proxy?server=138.201.253.239&port=7443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@proxyiran
+https://t.me/proxy?server=newdomain1.co.uk&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t&@proxyiran
+https://t.me/proxy?server=138.201.85.42&port=9110&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@proxyiran
