@@ -1,15 +1,15 @@
-https://t.me/proxy?server=fav.dynme.ovh&port=9444&secret=eea09f6273a521c9881d0ca1b11a5dd0f16661762e64796e6d652e6f7668
+https://t.me/proxy?server=tg5.656c797369756d.app&port=8888&secret=ee6cb451efb8f357733feda81aa8e8066c72752d6d736b332e6170692e6d696e65756e696f6e2e6e6574
+https://t.me/proxy?server=65.109.210.10&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=65.109.253.72&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=45.82.65.142&port=443&secret=a7c17e9a495ef47028c1c57f4c4a9d5e
+https://t.me/proxy?server=tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
+https://t.me/proxy?server=2.26.146.71&port=8080&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=65.109.249.206&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=46.225.252.19&port=8443&secret=7mzAb_ZKo6frYcngi6mVreViaXNjb3R0aS55ZWt0YW5ldC5jb20
 https://t.me/proxy?server=65.109.215.115&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=65.109.215.115&port=8443&secret=dd104462821249bd7ac519130220c25d09پروکسی همراه اول ایرانسل:
-https://t.me/proxy?server=49.13.35.164&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=63.178.69.204&port=443&secret=ee104462821249bd7ac519130220c25d096d61696c2e7275
-https://t.me/proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09🔴 لیست پروکسی های متصل در وایفای و مخابرات
-https://t.me/proxy?server=34.200.236.128&port=80&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=10.ir.fulle7.info&port=8443&secret=EERighJJvXrFGRMCIMJdCQ==
-https://t.me/proxy?server=11.ir.fulle7.info&port=8443&secret=EERighJJvXrFGRMCIMJdCQ==
-https://t.me/proxy?server=6.ir.fulle7.info&port=8443&secret=EERighJJvXrFGRMCIMJdCQ==
-https://t.me/proxy?server=204.168.129.90&port=443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=51.120.71.120&port=443&secret=c760667d53b6856ca44431fc93b8fe23
-https://t.me/proxy?server=94.183.219.141&port=443&secret=91f5fd16db2720f5948f7cb89805f95d
-https://t.me/proxy?server=212.100.171.164&port=443&secret=Ee1603010200010001Fc030386E24c3aDd626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=65.109.215.115&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=46.225.252.19&port=8443&secret=7mzAb_ZKo6frYcngi6mVreViaXNjb3R0aS55ZWt0YW5ldC5jb20
+https://t.me/proxy?server=65.109.249.206&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=195.254.165.23&port=8443&secret=EERighJJvXrFGRMCIMJdCQ==
+https://t.me/proxy?server=176.65.128.238&port=8443&secret=EERighJJvXrFGRMCIMJdCQ==
+https://t.me/proxy?server=178.105.241.184&port=443&secret=99902e5742bd34a3f26434fadf88cde3
