@@ -1,15 +1,15 @@
-https://t.me/proxy?server=65.109.215.115&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=65.109.215.115&port=8443&secret=dd104462821249bd7ac519130220c25d09پروکسی همراه اول ایرانسل:
+https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54****
+https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54**
+https://t.me/proxy?server=2.58.172.47&port=443&secret=eeafb5b46ea72f6c385d0b134339b44d967777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=45.77.140.203&port=443&secret=746a6e2428ebe53299786324c187977a
+https://t.me/proxy?server=77.42.124.215&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=195.254.165.4&port=8443&secret=EERighJJvXrFGRMCIMJdCQ%3D%3D
 https://t.me/proxy?server=63.178.69.204&port=443&secret=ee104462821249bd7ac519130220c25d096d61696c2e7275
-https://t.me/proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09🔴 لیست پروکسی های متصل در وایفای و مخابرات
-https://t.me/proxy?server=87.248.129.199&port=25565&secret=79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=34.200.236.128&port=80&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=10.ir.fulle7.info&port=8443&secret=EERighJJvXrFGRMCIMJdCQ==
-https://t.me/proxy?server=11.ir.fulle7.info&port=8443&secret=EERighJJvXrFGRMCIMJdCQ==
-https://t.me/proxy?server=6.ir.fulle7.info&port=8443&secret=EERighJJvXrFGRMCIMJdCQ==
-https://t.me/proxy?server=204.168.129.90&port=443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=dreams.nolags.pw&port=443&secret=dd2d558135931b5e0c5da5e7501724b32c
-https://t.me/proxy?server=195.254.165.211&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D
-https://t.me/proxy?server=65.109.215.115&port=8443&secret=dd104462821249bd7ac519130220c25d09پروکسی
-https://t.me/proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09🔴
-https://t.me/proxy?server=3.218.208.101&port=80&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=63.178.69.204&port=443&secret=ee104462821249bd7ac519130220c25d096d61696c2e7275
+https://t.me/proxy?server=2.26.146.71&port=8080&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=91.107.182.200&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54****
+https://t.me/proxy?server=207.154.232.153&port=443&secret=f5de2ee8b2576d8cd8257dc305ed846d
+https://t.me/proxy?server=207.154.232.153&port=443&secret=f5de2ee8b2576d8cd8257dc305ed846d
+https://t.me/proxy?server=tg.capycore.ru&port=443&secret=27ebe852539fb8ec5f327c73262bb721
