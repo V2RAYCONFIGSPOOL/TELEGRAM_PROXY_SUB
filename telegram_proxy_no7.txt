@@ -1,15 +1,15 @@
-https://t.me/proxy?server=213.133.102.101&port=443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=95.216.41.97&port=443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=165.22.169.237&port=4455&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=5.252.26.137&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=51.83.226.39&port=1443&secret=eed0d6e111bada5511fcce9584deadbeef73332e616d617a6f6e6177732e636f6d
-https://t.me/proxy?server=51.89.229.139&port=1443&secret=eed0d6e111bada5511fcce9584deadbeef646565707365656b2e636f6d
-https://t.me/proxy?server=62.60.247.114&port=8443&secret=ee8f8cc8ff11b0dc79953dff4a15c146db73332e616d617a6f6e6177732e636f6d
-https://t.me/proxy?server=87.248.129.50&port=15&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-https://t.me/proxy?server=87.248.129.224&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-https://t.me/proxy?server=amsterdam.geodns.info&port=443&secret=ee79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=87.248.129.244&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-https://t.me/proxy?server=46.225.255.143&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=195.254.165.18&port=8443&secret=ee1603010200010001fc030386e24c3add646565707365656B2E636F6D
-https://t.me/proxy?server=91.107.246.35&port=443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=195.254.165.20&port=8080&secret=dd79e7010200010007f0030386e24c3add
+https://t.me/proxy?server=95.216.41.109&port=443&secret=dd104462821249bd7ac519130220c25d09 # Ping: 3194ms
+https://t.me/proxy?server=213.133.102.106&port=443&secret=dd104462821249bd7ac519130220c25d09 # Ping: 3568ms
+https://t.me/proxy?server=91.107.150.148&port=8443&secret=dd104462821249bd7ac519130220c25d09 # Ping: 4086ms
+https://t.me/proxy?server=116.203.4.13&port=4455&secret=dd104462821249bd7ac519130220c25d09 # Ping: 4137ms
+https://t.me/proxy?server=31.47.51.91&port=443&secret=ddecb813fb23747286cf9ac2ba887f627f # Ping: 4294ms
+https://t.me/proxy?server=213.133.102.101&port=443&secret=dd104462821249bd7ac519130220c25d09 # Ping: 4533ms
+https://t.me/proxy?server=37.27.192.211&port=8443&secret=dd104462821249bd7ac519130220c25d09 # Ping: 5514ms
+https://t.me/proxy?server=88.198.170.144&port=4455&secret=ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6d
+https://t.me/proxy?server=87.248.129.243&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=87.248.129.223&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=167.233.21.161&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=213.133.102.106&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=193.151.141.41&port=2536&secret=eeb57db99d9a77b030a9ec024cbb09cea3676f6f676c652e636f6d
+https://t.me/proxy?server=167.233.58.97&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54
