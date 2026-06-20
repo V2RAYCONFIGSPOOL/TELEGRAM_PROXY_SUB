@@ -8,7 +8,7 @@
 ✅لینک کانال  تلگرام
 
 https://t.me/v2ray_configs_pool
-د
+
 
 ![line](line.gif)
 
