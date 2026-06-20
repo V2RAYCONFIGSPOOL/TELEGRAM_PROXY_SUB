@@ -2,13 +2,12 @@
 
 ![line](line.gif)
 
-🔷 ۱۵ درصد از پروکسی های کانال تلگرام در صفحهٔ گیت‌هاب آپلود می‌شود
+🔷 ۱۵ درصد از پروکسی های کانال تلگرام  در صفحهٔ گیت‌هاب آپلود می‌شود
 
 
-✅لینک کانال  تلگرام
+✅لینک کانال تلگرام
 
 https://t.me/v2ray_configs_pool
-
 
 ![line](line.gif)
 
@@ -21,7 +20,9 @@ https://t.me/v2ray_configs_pool
 👇 Tron (TRC20) / Tether (TRC20) 👇
 
 TC8wmFNwUwfXb1mh26fJyPL3MkETufmrcw
+
 ![line](line.gif)
+
 👇 Toncoin (TON) / Tether (TON)  👇
 
 UQDXAcrX_Hts4gBglgfPj0gErIwl86pmFfY8-G6r7wh_in7T  
