@@ -1,3 +1,4 @@
+https://t.me/proxy?server=BEST.FOR-ALL.TK&port=443&secret=dd540e3ca27f4612b1e2bdf1229e0a9c63
 https://t.me/proxy?server=Eye.ChMTP.Info&port=88&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=a.similemat.com&port=12341&secret=695991ebb339e7f42c9e1e689419c6f9
 https://t.me/proxy?server=bombproxy.pro&port=80&secret=dddd123456789012345678901234567890
@@ -6,10 +7,9 @@ https://t.me/proxy?server=Best.For-All.tk&port=443&secret=dd540e3ca27f4612b1e2bd
 https://t.me/proxy?server=Iran.mother.ir.jetish.info.&port=88&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
 https://t.me/proxy?server=alive.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=87.229.56.180&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-https://t.me/proxy?server=mt.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=148.251.55.126&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=vip.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=94.237.76.119&port=443&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=188.40.191.149&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=jxhswdsh.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=167.233.159.224&port=8443&secret=dd79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=a.similemat.com&port=443&secret=4170ef4862902c504d0e3e8c38d5fa24
+https://t.me/proxy?server=a.similemat.com&port=12341&secret=9ef467e292fb4f19f9041e4d7c00b70b
+https://t.me/proxy?server=167.233.159.224&port=8443&secret=dd79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=188.34.167.142&port=4455&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=a.similemat.com&port=443&secret=4170ef4862902c504d0e3e8c38d5fa24
