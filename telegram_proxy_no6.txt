@@ -1,10 +1,10 @@
-https://t.me/proxy?server=help.joumalanet.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169
-https://t.me/proxy?server=world-mordak.maraton-co.info.&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-https://t.me/proxy?server=megaconnect.click&port=443&secret=ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275
-https://t.me/proxy?server=last.konstruktion.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 https://t.me/proxy?server=dynu.ir.sorza.info&port=565&secret=ee3824fdbff1efffbb807931ced081771f6170692e746f726f622e636f6d
 https://t.me/proxy?server=dynu.ir.hyperfluxlabs.me&port=565&secret=ee3824fdbff1efffbb807931ced081771f6170692e746f726f622e636f6d
 https://t.me/proxy?server=dynu.ir.sorza.info&port=565&secret=ee3824fdbff1efffbb807931ced081771f6170692e746f726f622e636f6d
 https://t.me/proxy?server=dynu.ir.hyperfluxlabs.me&port=565&secret=ee3824fdbff1efffbb807931ced081771f6170692e746f726f622e636f6d
-https://t.me/proxy?server=dynu.ir.sorza.info&port=565&secret=ee3824fdbff1efffbb807931ced081771f6170692e746f726f622e636f6d
-https://t.me/proxy?server=dynu.ir.hyperfluxlabs.me&port=565&secret=ee3824fdbff1efffbb807931ced081771f6170692e746f726f622e636f6d
+https://t.me/proxy?server=116.203.55.20&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
+https://t.me/proxy?server=78.47.158.138&port=7443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
+https://t.me/proxy?server=jadid.zhigool.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=admin.valmira.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
