@@ -1,10 +1,10 @@
-https://t.me/proxy?server=last.konstruktion.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
-https://t.me/proxy?server=iran-download.mr-moo.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
-https://t.me/proxy?server=198.44.180.193&port=443&secret=dd9a789247db94f4d773b6db3f2febfdfb
-https://t.me/proxy?server=198.44.180.194&port=443&secret=dd496646929e7dfd66c2dbd95d7e9ddbf7
+https://t.me/proxy?server=82.152.162.22&port=10006&secret=ee548593a9c0688f4f7d9d57377897d964636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=94.249.244.159&port=8443&secret=dddd3aeaf67503289606c9b8e6bbfde860
-https://t.me/proxy?server=45.11.187.130&port=8443&secret=104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=45.11.187.130&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=89.144.35.35&port=1080&secret=ee79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=annulation.pretypify.updraft.pilipinoteleserye.com&port=443&secret=eefdad83d47ba2c0b3e3657dc37af911fb647a656e2e7275
+https://t.me/proxy?server=89.144.35.35&port=1080&secret=ee79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=198.44.180.194&port=443&secret=dd496646929e7dfd66c2dbd95d7e9ddbf7
+https://t.me/proxy?server=last.konstruktion.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
 https://t.me/proxy?server=87.107.3.232&port=444&secret=40f9db94c7426b64b2069e32406cad63
+https://t.me/proxy?server=198.44.180.193&port=443&secret=dd9a789247db94f4d773b6db3f2febfdfb
+https://t.me/proxy?server=iran-download.mr-moo.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
+https://t.me/proxy?server=45.11.187.130&port=8443&secret=104462821249bd7ac519130220c25d09
