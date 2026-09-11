@@ -1,10 +1,10 @@
-https://t.me/proxy?server=co.uk.zenqor.ir.&port=443&secret=eecBAgABAAfwAwOG4kw63QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAA
-https://t.me/proxy?server=zenabyss.dp4l.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+https://t.me/proxy?server=silentveil.7ug.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+https://t.me/proxy?server=altaria.proxy.rlwy.net&port=35682&secret=34a6d7dcf5f80e1197812159a6f10b7e
 https://t.me/proxy?server=ii.iiproxy.com&port=443&secret=14815c50715e89a34ae24844e01aaab3
+https://t.me/proxy?server=voidnest.8lil.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+https://t.me/proxy?server=co.uk.zenqor.ir.&port=443&secret=eecBAgABAAfwAwOG4kw63QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAA
 https://t.me/proxy?server=h1.iiproxy.com&port=443&secret=91b3c7d1d2d74ffc88c63b23a4863133
 https://t.me/proxy?server=h2.iiproxy.com&port=443&secret=64ffe02a1356cd0ae37f284df2ab63ea
 https://t.me/proxy?server=h3.iiproxy.com&port=443&secret=a85ff9cd40c698050987ba66ee09ee3f
 https://t.me/proxy?server=nu1.iiproxy.com&port=443&secret=e715fe0790e2b7a184c5f96096af14f5
 https://t.me/proxy?server=nu2.iiproxy.com&port=443&secret=01e7d82f697e538432ff7ba16ffb56a3
-https://t.me/proxy?server=nu3.iiproxy.com&port=443&secret=e256bd616e49c6960c1b647c44d926cf
-https://t.me/proxy?server=fa1.iiproxy.com&port=443&secret=ca5318249c49c3e121fa53b054e58a0c
