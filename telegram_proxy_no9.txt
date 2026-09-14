@@ -1,10 +1,10 @@
-https://t.me/proxy?server=95.182.98.23&port=443&secret=dd1184c15c6b1810ab4804e8d5454e219d&&channel=@baicai_dev
-https://t.me/proxy?server=aicloud.sharedocs.online&port=443&secret=ee87c598b74482a16f4d25b15d7456f1436d2e6265626f6f2e7275&&channel=@baicai_dev
-https://t.me/proxy?server=bo0ji.co.uk&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b&&channel=@baicai_dev
-https://t.me/proxy?server=mahsa-1-2m.mahastim-57-232.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==&&channel=@baicai_dev
+https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=flux.lavazemi5.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+https://t.me/proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b
 https://t.me/proxy?server=89.34.230.97.orvenda.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
 https://t.me/proxy?server=89.34.230.57.orvenda.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
-https://t.me/proxy?server=dorost-mishe.pc-danshjo.ir&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-https://t.me/proxy?server=bnjy.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=94.184.32.108.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
 https://t.me/proxy?server=212.108.98.101.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
-https://t.me/proxy?server=jadide.ldm7.ir&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
