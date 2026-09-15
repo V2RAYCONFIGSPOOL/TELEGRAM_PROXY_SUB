@@ -1,10 +1,10 @@
-https://t.me/proxy?server=Eye.ChMTP.Info&port=88&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=bombproxy.pro&port=80&secret=dddd123456789012345678901234567890
-https://t.me/proxy?server=Best.For-All.tk&port=443&secret=dd540e3ca27f4612b1e2bdf1229e0a9c63
+https://t.me/proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=30f9e0.mtpfast.com&port=443&secret=ee3452747634e3675ff895e7ff2f1307323330663965302e6d7470666173742e636f6d
+https://t.me/proxy?server=f5fe36.proxyhub.co&port=443&secret=eea14e59f8fda21c858d772e0fd261ad156635666533362e70726f78796875622e636f
+https://t.me/proxy?server=a27b0a.hopwire.io&port=443&secret=ee18f8c3028bf752a74732a9a2fd99ab4d6132376230612e686f70776972652e696f
 https://t.me/proxy?server=alive.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=mt.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=vip.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=jxhswdsh.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=jxhwr55p.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=bombproxy.pro&port=80&secret=dddd123456789012345678901234567890
 https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=mt.mtfastest.info&port=7980&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=Best.For-All.tk&port=443&secret=dd540e3ca27f4612b1e2bdf1229e0a9c63
