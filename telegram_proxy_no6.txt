@@ -1,5 +1,3 @@
-https://t.me/proxy?server=vasle-sho-binam.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=borujerd-tehran-esfahan.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=portal.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=range-sal.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add
@@ -8,3 +6,5 @@ https://t.me/proxy?server=mashti-khan.ebimarh.info&port=8443&secret=160301020001
 https://t.me/proxy?server=zenon.flashspder.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=khobi-alhamdolelah.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=habib-lisanser.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=id466.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=felan-by.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
