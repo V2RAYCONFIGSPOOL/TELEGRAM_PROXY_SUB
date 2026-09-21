@@ -1,5 +1,3 @@
-https://t.me/proxy?server=atr.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=team-daemi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=vizhzhzhzhzh.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=rond-hamrahaval.ebimarh.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=talfighi.barekatbashe.info&port=8443&secret=1603010200010001fc030386e24c3add
@@ -8,3 +6,5 @@ https://t.me/proxy?server=karbar123456.sillakhor.info&port=8443&secret=160301020
 https://t.me/proxy?server=last-of-you.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=join-in-play.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=mashti-khobi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=asli-orginal-daemi.khodkarbic.info&port=8443&secret=1603010200010001fc030386e24c3add
